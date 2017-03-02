@@ -42,6 +42,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Apoorva Kumar [rava-dosa](https://github.com/rava-dosa)
 * Arafat Dad Khan [Arafatk](https://github.com/Arafatk)
 * Aranya Dan [aranyadan](http://github.com/aranyadan)
+* Argha Paul [argha-paul](http://github.com/argha-paul)
 * Arihant Jain [arihantjainm](https://github.com/arihantjainm)
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
 * Ayush Mahajan [ayushmahajan1008](https://github.com/ayushmahajan1008)
