@@ -58,6 +58,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Kaustubh Hiware [kaustubhhiware](https://github.com/kaustubhhiware)
 * Krishna Bagadia [krishna95](http://github.com/krishna95)
 * Krishna Kunal [krish-kunal](http://github.com/krish-kunal)
+* Kritwish Mondal [kritwishm](http://github.com/kritwishm)
 * Kshitij Saraogi [kshitij10496](https://github.com/kshitij10496)
 * Lovish Puri [lovishpuri](http:/github.com/lovishpuri)
 * Manash Pratim Das [ManashRaja](http://github.com/Manashraja)
